@@ -71,8 +71,9 @@ public class BaseClass {
 	}
 	
 	@AfterClass(groups={"Master", "Regression", "Sanity"})
-	public void tearDown() 
+	public void tearDown() throws InterruptedException 
 	{
+		Thread.sleep(4000);
 		driver.quit();
 		logger.info("closing browser");
 	}

@@ -26,6 +26,24 @@ public class HomePage extends BasePage  {
 	@FindBy(xpath="//a[@class='dropdown-item'][normalize-space()='Login']")  //login link added
 	WebElement linkLogin;
 	
+	@CacheLookup
+	@FindBy(xpath="//input[@placeholder='Search']")
+	WebElement searchTextfield;
+	
+	@CacheLookup
+	@FindBy(xpath="//i[@class='fa-solid fa-magnifying-glass']")
+	WebElement searchIcon;
+	
+	public void clickSearchField(String macbook) 
+	{
+		searchTextfield.sendKeys(macbook);
+	}
+	
+	public void clickSearchIcon() 
+	{
+		searchIcon.click();
+	}
+	
 	
 	public void clickMyAccount() 
 	{
