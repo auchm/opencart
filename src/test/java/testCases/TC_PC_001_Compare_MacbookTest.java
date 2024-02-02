@@ -23,9 +23,14 @@ public class TC_PC_001_Compare_MacbookTest extends BaseClass{
 		
 		SearchMacbookPage macsrc = new SearchMacbookPage(driver);
 		macsrc.ClickMacbook();
+		macsrc.verifyMacbookPage();
 		
 		MacbookMainPage mm = new MacbookMainPage(driver);
 		mm.clickCompareIcon();
+		mm.clickCompareLink();
+		
+		
+		
 		
 		
 		

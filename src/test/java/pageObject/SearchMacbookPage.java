@@ -1,9 +1,12 @@
 package pageObject;
 
+import static org.testng.Assert.assertEquals;
+
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
+import org.testng.Assert;
 
 public class SearchMacbookPage extends BasePage{
 	
@@ -20,6 +23,13 @@ public class SearchMacbookPage extends BasePage{
 	public void ClickMacbook() 
 	{
 		macBook.click();
+	}
+	
+	public void verifyMacbookPage() 
+	{
+		String title = driver.getTitle();
+		Assert.assertEquals(title, "MacBook");
+		
 	}
 
 }

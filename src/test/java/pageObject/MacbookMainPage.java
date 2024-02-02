@@ -16,9 +16,18 @@ public class MacbookMainPage extends BasePage {
 	@FindBy(xpath="//i[@class='fa-solid fa-arrow-right-arrow-left']")
 	WebElement compareIcon;
 	
+	@CacheLookup
+	@FindBy(xpath="//a[normalize-space()='product comparison']")
+	WebElement compareLink;
+	
 	public void clickCompareIcon() 
 	{
 		compareIcon.click();
+	}
+	
+	public void clickCompareLink() 
+	{
+		compareLink.click();
 	}
 
 }
