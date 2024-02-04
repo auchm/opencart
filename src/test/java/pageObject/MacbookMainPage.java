@@ -4,6 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
+import org.testng.Assert;
 
 public class MacbookMainPage extends BasePage {
 	
@@ -20,6 +21,10 @@ public class MacbookMainPage extends BasePage {
 	@FindBy(xpath="//a[normalize-space()='product comparison']")
 	WebElement compareLink;
 	
+	@CacheLookup
+	@FindBy(xpath="//h1[normalize-space()='Product Comparison']")
+	WebElement ImgProductCompare;
+	
 	public void clickCompareIcon() 
 	{
 		compareIcon.click();
@@ -30,4 +35,10 @@ public class MacbookMainPage extends BasePage {
 		compareLink.click();
 	}
 
+	public void img () 
+	{
+		Assert.assertTrue(ImgProductCompare.isDisplayed());
+		return;
+
+	}
 }

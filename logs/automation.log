@@ -70,3 +70,90 @@
 12:26:13.329 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching chrome browser
 12:26:15.359 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching browser url
 12:26:20.748 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - closing browser
+12:33:36.986 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching chrome browser
+12:33:39.082 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching browser url
+12:33:44.757 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - closing browser
+12:34:21.224 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching chrome browser
+12:34:23.301 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching browser url
+12:34:28.866 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - closing browser
+12:35:37.798 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching chrome browser
+12:35:39.617 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching browser url
+12:35:45.203 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - closing browser
+12:38:16.745 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching chrome browser
+12:38:18.533 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching browser url
+12:38:24.384 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - closing browser
+12:43:04.058 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching chrome browser
+12:43:05.930 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching browser url
+12:43:11.579 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - closing browser
+12:45:21.204 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching chrome browser
+12:45:23.125 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching browser url
+12:45:28.501 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - closing browser
+12:47:06.660 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching chrome browser
+12:47:08.481 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching browser url
+12:47:13.875 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - closing browser
+12:49:25.787 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching chrome browser
+12:49:27.596 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching browser url
+12:49:33.007 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - closing browser
+12:51:37.909 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching chrome browser
+12:51:39.711 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching browser url
+12:51:45.523 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - closing browser
+12:52:47.013 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching chrome browser
+12:52:48.833 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching browser url
+12:52:54.663 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - closing browser
+12:53:36.149 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching chrome browser
+12:53:37.798 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching browser url
+12:53:43.412 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - closing browser
+12:57:39.432 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching chrome browser
+12:57:41.359 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching browser url
+12:57:46.744 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - closing browser
+12:58:50.785 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching chrome browser
+12:58:53.026 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching browser url
+12:58:57.949 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - closing browser
+13:00:13.319 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching chrome browser
+13:00:15.735 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching browser url
+13:00:21.422 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - closing browser
+13:06:04.588 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching chrome browser
+13:06:06.792 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching browser url
+13:06:12.503 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - closing browser
+13:06:43.852 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching chrome browser
+13:06:45.679 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching browser url
+13:06:51.257 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - closing browser
+13:07:04.596 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching chrome browser
+13:07:06.406 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching browser url
+13:07:12.120 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - closing browser
+13:08:32.338 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching chrome browser
+13:08:34.088 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching browser url
+13:08:39.638 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - closing browser
+13:10:55.670 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching chrome browser
+13:10:57.450 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching browser url
+13:11:03.060 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - closing browser
+20:10:12.771 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching chrome browser
+20:10:16.634 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching browser url
+20:10:22.888 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - closing browser
+20:12:07.088 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching chrome browser
+20:12:09.690 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching browser url
+20:12:15.988 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - closing browser
+20:12:50.658 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching chrome browser
+20:12:52.716 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching browser url
+20:12:58.555 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - closing browser
+20:19:00.842 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching chrome browser
+20:19:03.430 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching browser url
+20:19:09.390 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - closing browser
+20:19:39.877 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching chrome browser
+20:19:41.660 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching browser url
+20:19:47.448 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - closing browser
+20:33:45.897 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching chrome browser
+20:33:48.226 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching browser url
+20:33:53.935 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - closing browser
+20:34:38.935 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching chrome browser
+20:34:40.590 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching browser url
+20:34:46.412 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - closing browser
+20:36:14.441 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching chrome browser
+20:36:16.181 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching browser url
+20:36:21.884 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - closing browser
+20:38:36.941 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching chrome browser
+20:38:38.804 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching browser url
+20:38:44.813 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - closing browser
+20:39:13.620 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching chrome browser
+20:39:15.719 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - lunching browser url
+20:39:21.305 [main] INFO  testCases.TC_PC_001_Compare_MacbookTest - closing browser

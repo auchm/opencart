@@ -25,11 +25,5 @@ public class SearchMacbookPage extends BasePage{
 		macBook.click();
 	}
 	
-	public void verifyMacbookPage() 
-	{
-		String title = driver.getTitle();
-		Assert.assertEquals(title, "MacBook");
-		
-	}
 
 }
