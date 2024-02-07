@@ -38,7 +38,7 @@ public class MacbookMainPage extends BasePage {
 	public void img () 
 	{
 		Assert.assertTrue(ImgProductCompare.isDisplayed());
-		return;
+		
 
 	}
 }

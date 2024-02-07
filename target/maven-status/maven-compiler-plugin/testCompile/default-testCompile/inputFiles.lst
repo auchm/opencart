@@ -2,11 +2,14 @@ C:\workspace\javaworkspace\opencart\src\test\java\pageObject\AccountRegistration
 C:\workspace\javaworkspace\opencart\src\test\java\pageObject\BasePage.java
 C:\workspace\javaworkspace\opencart\src\test\java\pageObject\HomePage.java
 C:\workspace\javaworkspace\opencart\src\test\java\pageObject\LoginPage.java
+C:\workspace\javaworkspace\opencart\src\test\java\pageObject\MacbookMainPage.java
 C:\workspace\javaworkspace\opencart\src\test\java\pageObject\MyAccountPage.java
+C:\workspace\javaworkspace\opencart\src\test\java\pageObject\SearchMacbookPage.java
 C:\workspace\javaworkspace\opencart\src\test\java\testBase\BaseClass.java
 C:\workspace\javaworkspace\opencart\src\test\java\testCases\TC_001_AccountRegistrationTest.java
 C:\workspace\javaworkspace\opencart\src\test\java\testCases\TC_002_LoginTest.java
 C:\workspace\javaworkspace\opencart\src\test\java\testCases\TC_003_LoginDataDrivenTest.java
+C:\workspace\javaworkspace\opencart\src\test\java\testCases\TC_PC_001_Compare_MacbookTest.java
 C:\workspace\javaworkspace\opencart\src\test\java\utilities\DataProviders.java
 C:\workspace\javaworkspace\opencart\src\test\java\utilities\ExcelUtility.java
 C:\workspace\javaworkspace\opencart\src\test\java\utilities\ExtentReportManager.java

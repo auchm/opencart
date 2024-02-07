@@ -3,6 +3,7 @@ package testCases;
 import org.testng.Assert;
 
 
+
 import org.testng.annotations.Test;
 
 import pageObject.AccountRegistrationPage;
@@ -34,7 +35,7 @@ public class TC_001_AccountRegistrationTest extends BaseClass {
 		logger.info("providing customer details");
 
 		reg.RegisterAccImg();
-		reg.firstNameField(randomeString().toUpperCase());
+		reg.firstNameField(randomeString().toLowerCase());
 		reg.lastNameField(randomeString().toUpperCase());
 		reg.EmailField(randomeString()+"@gmail.com");
 		reg.passWordField(randomAlphaNumeric());
